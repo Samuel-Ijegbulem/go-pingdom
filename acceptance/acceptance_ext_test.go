@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mbarper/go-pingdom/pingdomext"
+	"github.com/Samuel-Ijegbulem/go-pingdom/pingdomext"
 	"github.com/stretchr/testify/assert"
 )
 

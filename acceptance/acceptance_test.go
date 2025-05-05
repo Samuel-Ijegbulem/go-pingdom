@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mbarper/go-pingdom/solarwinds"
+	"github.com/Samuel-Ijegbulem/go-pingdom/solarwinds"
 
-	"github.com/mbarper/go-pingdom/pingdom"
+	"github.com/Samuel-Ijegbulem/go-pingdom/pingdom"
 	"github.com/stretchr/testify/assert"
 )
 
